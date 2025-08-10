@@ -1,4 +1,4 @@
-Simulated datasets were generated for SeaWiFS, MODIS-Aqua, VIIRS, MERIS and OLCI sensors
+Simulated datasets were generated for ocean colour sensors SeaWiFS, MODIS-Aqua, VIIRS, MERIS, OLCI and Copernicus Sentinel-3 Sea and Land Surface Temperature Radiometer (SLSTR).
 
 The dataset for each sensor contains the following, where "sensor" represents the respective sensor name:
 
